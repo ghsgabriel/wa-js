@@ -58,7 +58,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.1.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
-    "file-type": "^17.1.2",
+    "file-type": "^18.2.1",
     "husky": "^8.0.1",
     "playwright": "^1.23.0",
     "prettier": "^2.7.1",
